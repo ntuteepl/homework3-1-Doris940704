@@ -15,7 +15,7 @@ while((i-1>=k)&&(n=true)){
     k++;
 }
 if(n==0)
-    printf("No");
+    printf("NO");
 else
-    printf("yes");
+    printf("YES");
 }
